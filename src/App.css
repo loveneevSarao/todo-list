@@ -1,0 +1,15 @@
+input {
+  display: flex;
+  border-radius: 5px;
+
+}
+
+button {
+  background-color: #FE7566;
+  color: #332C23;
+  font-size: 12px;
+  border-radius: 5px;
+  padding: 5px 12px;
+  margin-top: 10px;
+
+}
